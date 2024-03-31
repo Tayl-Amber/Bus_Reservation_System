@@ -24,6 +24,7 @@ void busType() {
     printf("Anderson Travels\n");
     printf("Journey Lines\n");
     printf("Horizon Travels\n");
+    printf("GrayHound\n");
     printf("---------------------------------------------");
 }
 
