@@ -120,7 +120,7 @@ void reserveSeat()
         printf("Invalid Seat Entered.\nSeat is already Reserved!\n\n");
     }
 }
-
+// cancel the seat
 void cancelSeat() {
     int seatNum;
     printf("Enter the seat number you want to cancel:");
@@ -132,7 +132,7 @@ void cancelSeat() {
     }
 
 }
-
+// refund the seat
 void refundSeat() {
     int seatNum;
     printf("Enter the seat no you want to refund:");
