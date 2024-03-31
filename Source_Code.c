@@ -48,7 +48,7 @@ void availableSeats(int seat[], int size) {
 
 }
 
-
+// for reserve the seat
 void reserveSeat()
 {
 
