@@ -14,7 +14,8 @@ struct reserve
 };
 
 struct reserve reservation ;
-
+ 
+ // Bus type
 
 void busType() {
     printf("=================BUS TYPE======================");
@@ -26,7 +27,7 @@ void busType() {
     printf("---------------------------------------------");
 }
 
-
+// Display menu
 void displayMenu() {
     printf("\n\n==========================WELCOME============================\n\n");
     printf("\n1. Display Available Seats\n");
